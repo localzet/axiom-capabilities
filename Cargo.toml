@@ -1,0 +1,11 @@
+[package]
+name = "axiom-capabilities"
+version = "0.1.0"
+edition = "2021"
+description = "Capability-token model and policy evaluator for Axiom"
+license = "MIT"
+publish = false
+
+[dependencies]
+anyhow = "1"
+
