@@ -1,5 +1,9 @@
 # axiom-capabilities v0.2.0
 
-Hash-linked attenuating capability tokens. Delegation can only reduce action set, resource scope and lifetime. v0.2 adds
-parent binding, validity intervals, nonce identity and resource-prefix attenuation. Cryptographic signatures are
-deliberately deferred until the token semantics stabilize.
+Хеш-связанные capability-токены с ослаблением полномочий. Делегирование может только уменьшать набор действий, область
+ресурса и срок действия. В v0.2 добавлены привязка к родителю, интервалы валидности, nonce-идентичность и ослабление по
+префиксу ресурса. Криптографические подписи намеренно отложены до стабилизации семантики токенов.
+
+## Связанные исследования
+
+Этот компонент входит в исследовательский проект [Axiom](https://github.com/localzet/axiom-stack). Все компоненты собраны по теме [localzet-axiom](https://github.com/topics/localzet-axiom). Основной язык документации — русский. Исследовательские результаты и ограничения не означают готовность к промышленному применению.
