@@ -4,6 +4,6 @@ Hash-linked attenuating capability tokens. Delegation can only reduce action set
 parent binding, validity intervals, nonce identity and resource-prefix attenuation. Cryptographic signatures are
 deliberately deferred until the token semantics stabilize.
 
-## Авторство
+## Attribution
 
-Сопровождающий собственных изменений: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Исходное авторство и лицензии сторонних компонентов сохраняются. См. [AUTHORS](.github/AUTHORS.md).
+Maintainer of Localzet contributions: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Original authorship and third-party licenses remain applicable. See [AUTHORS](.github/AUTHORS.md).
